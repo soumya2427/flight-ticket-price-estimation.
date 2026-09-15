@@ -1,0 +1,801 @@
+flight_id,airline,source,destination,travel_month,days_before_booking,stops,duration_hours,ticket_price
+FLT0001,GoAir,Mumbai,Delhi,4,74.0,2 Stops,6.2,8116.0
+FLT0002,Air India,Kolkata,Goa,3,106.0,1 Stop,6.3,9660.0
+FLT0003,GoAir,Kolkata,Hyderabad,6,37.0,Non-stop,6.9,8353.0
+FLT0004,SpiceJet,Mumbai,Kolkata,11,57.0,Non-stop,7.5,12244.0
+FLT0005,IndiGo,Delhi,Chennai,10,15.0,Non-stop,6.8,9785.0
+FLT0006,Akasa Air,Hyderabad,Pune,4,117.0,Non-stop,8.1,9796.0
+FLT0007,SpiceJet,Delhi,Bangalore,12,62.0,2 Stops,6.6,9030.0
+FLT0008,GoAir,Chennai,Hyderabad,3,67.0,Non-stop,5.8,8521.0
+FLT0009,IndiGo,Mumbai,Chennai,11,50.0,Non-stop,6.5,11409.0
+FLT0010,Air India,Delhi,Goa,4,33.0,1 Stop,1.9,4844.0
+FLT0011,Air India,Kolkata,Pune,7,114.0,Non-stop,3.5,7323.0
+FLT0012,Akasa Air,Delhi,Mumbai,3,59.0,Non-stop,5.7,9506.0
+FLT0013,SpiceJet,Kolkata,Goa,10,81.0,Non-stop,8.9,12709.0
+FLT0014,GoAir,Kolkata,Bangalore,4,5.0,1 Stop,7.1,7485.0
+FLT0015,Air India,Delhi,Bangalore,11,34.0,1 Stop,1.8,4801.0
+FLT0016,IndiGo,Mumbai,Chennai,1,97.0,Non-stop,6.3,10341.0
+FLT0017,Vistara,Kolkata,Hyderabad,7,11.0,2 Stops,3.0,4065.0
+FLT0018,IndiGo,Chennai,Bangalore,2,13.0,1 Stop,7.6,9813.0
+FLT0019,,Delhi,Bangalore,11,98.0,1 Stop,8.4,11072.0
+FLT0020,SpiceJet,Hyderabad,Chennai,6,38.0,Non-stop,6.3,9602.0
+FLT0021,SpiceJet,Mumbai,Bangalore,9,33.0,Non-stop,6.3,9989.0
+FLT0022,Air India,Delhi,Pune,11,68.0,1 Stop,4.0,7216.0
+FLT0023,Akasa Air,Hyderabad,Delhi,7,24.0,Non-stop,5.0,7769.0
+FLT0024,Akasa Air,Delhi,Pune,1,6.0,1 Stop,8.8,9208.0
+FLT0025,GoAir,Chennai,Bangalore,3,1.0,1 Stop,7.5,8805.0
+FLT0026,IndiGo,Hyderabad,Kolkata,3,10.0,Non-stop,5.7,8693.0
+FLT0027,Vistara,Chennai,Mumbai,11,20.0,1 Stop,4.3,8968.0
+FLT0028,IndiGo,Chennai,Goa,11,84.0,2 Stops,1.5,3949.0
+FLT0029,IndiGo,Bangalore,Pune,6,36.0,1 Stop,2.3,4327.0
+FLT0030,SpiceJet,Delhi,Bangalore,11,9.0,1 Stop,2.7,4042.0
+FLT0031,SpiceJet,Chennai,Mumbai,3,2.0,1 Stop,4.4,5425.0
+FLT0032,Akasa Air,Hyderabad,Kolkata,9,58.0,1 Stop,9.5,9836.0
+FLT0033,Air India,Delhi,Mumbai,5,101.0,1 Stop,5.5,9895.0
+FLT0034,Air India,Hyderabad,Bangalore,3,41.0,1 Stop,3.1,6163.0
+FLT0035,Vistara,Bangalore,Chennai,4,8.0,1 Stop,2.0,5888.0
+FLT0036,IndiGo,Chennai,Kolkata,6,28.0,Non-stop,4.0,6501.0
+FLT0037,IndiGo,Delhi,Hyderabad,5,60.0,Non-stop,8.3,12549.0
+FLT0038,Vistara,Chennai,Hyderabad,3,23.0,Non-stop,4.5,8161.0
+FLT0039,IndiGo,Mumbai,Pune,5,118.0,1 Stop,8.0,10673.0
+FLT0040,SpiceJet,Mumbai,Delhi,2,92.0,1 Stop,8.2,10621.0
+FLT0041,Air India,Kolkata,Bangalore,12,42.0,1 Stop,2.0,5663.0
+FLT0042,GoAir,Delhi,Pune,5,115.0,Non-stop,6.5,8878.0
+FLT0043,SpiceJet,Bangalore,Delhi,2,40.0,1 Stop,9.6,12426.0
+FLT0044,Air India,Chennai,Mumbai,7,17.0,2 Stops,4.6,6558.0
+FLT0045,GoAir,Delhi,Kolkata,11,113.0,Non-stop,1.5,4508.0
+FLT0046,GoAir,Mumbai,Goa,5,116.0,1 Stop,9.3,12151.0
+FLT0047,Air India,Bangalore,Pune,11,38.0,1 Stop,9.0,12375.0
+FLT0048,Air India,Chennai,Hyderabad,8,72.0,1 Stop,5.7,8781.0
+FLT0049,SpiceJet,Hyderabad,Pune,9,21.0,Non-stop,6.0,7473.0
+FLT0050,IndiGo,Hyderabad,Mumbai,4,77.0,1 Stop,2.9,6939.0
+FLT0051,IndiGo,Mumbai,Pune,1,83.0,2 Stops,8.4,10304.0
+FLT0052,IndiGo,Delhi,Goa,5,86.0,1 Stop,5.5,9301.0
+FLT0053,GoAir,Delhi,Chennai,12,69.0,2 Stops,1.3,2930.0
+FLT0054,SpiceJet,Chennai,Mumbai,10,85.0,2 Stops,7.1,8431.0
+FLT0055,SpiceJet,Delhi,Pune,10,67.0,Non-stop,9.6,11539.0
+FLT0056,GoAir,Mumbai,Chennai,11,99.0,1 Stop,8.5,11237.0
+FLT0057,Air India,Hyderabad,Pune,5,22.0,1 Stop,3.5,5720.0
+FLT0058,Vistara,Hyderabad,Goa,4,59.0,2 Stops,1.5,4668.0
+FLT0059,IndiGo,Hyderabad,Chennai,12,50.0,Non-stop,9.5,13141.0
+FLT0060,IndiGo,Mumbai,Delhi,7,65.0,Non-stop,9.4,16541.0
+FLT0061,SpiceJet,Chennai,Bangalore,4,18.0,1 Stop,5.8,7387.0
+FLT0062,Vistara,Chennai,Mumbai,4,39.0,Non-stop,6.8,13947.0
+FLT0063,Vistara,Mumbai,Chennai,11,115.0,1 Stop,5.2,12095.0
+FLT0064,SpiceJet,Chennai,Kolkata,1,13.0,Non-stop,4.8,7520.0
+FLT0065,SpiceJet,Chennai,Goa,1,77.0,2 Stops,2.1,3779.0
+FLT0066,Vistara,Bangalore,Mumbai,9,80.0,1 Stop,1.9,6580.0
+FLT0067,Vistara,Kolkata,Bangalore,1,57.0,Non-stop,3.1,8704.0
+FLT0068,Air India,Kolkata,Hyderabad,3,5.0,1 Stop,8.5,10790.0
+FLT0069,IndiGo,Chennai,Delhi,12,5.0,Non-stop,2.3,4351.0
+FLT0070,Air India,Kolkata,Mumbai,6,34.0,1 Stop,3.0,5448.0
+FLT0071,IndiGo,Kolkata,Goa,9,13.0,1 Stop,5.9,7848.0
+FLT0072,Air India,Chennai,Delhi,6,12.0,1 Stop,2.9,5070.0
+FLT0073,GoAir,Mumbai,Chennai,2,20.0,Non-stop,2.5,4456.0
+FLT0074,IndiGo,Kolkata,Mumbai,3,23.0,Non-stop,6.1,10540.0
+FLT0075,IndiGo,Kolkata,Delhi,10,101.0,1 Stop,4.3,7024.0
+FLT0076,Air India,Hyderabad,Chennai,2,77.0,1 Stop,6.6,9265.0
+FLT0077,Air India,Delhi,Kolkata,8,4.0,1 Stop,9.2,11642.0
+FLT0078,SpiceJet,Bangalore,Mumbai,5,76.0,Non-stop,2.4,6205.0
+FLT0079,Vistara,Hyderabad,Delhi,5,17.0,Non-stop,9.2,16914.0
+FLT0080,GoAir,Chennai,Mumbai,12,51.0,1 Stop,9.1,10996.0
+FLT0081,SpiceJet,Hyderabad,Bangalore,8,5.0,Non-stop,8.5,10578.0
+FLT0082,Air India,Delhi,Pune,8,11.0,Non-stop,6.7,10655.0
+FLT0083,GoAir,Delhi,Mumbai,5,16.0,2 Stops,6.6,9027.0
+FLT0084,IndiGo,Kolkata,Bangalore,5,53.0,Non-stop,6.8,11480.0
+FLT0085,IndiGo,Bangalore,Delhi,9,56.0,1 Stop,7.2,9919.0
+FLT0086,IndiGo,Chennai,Bangalore,1,43.0,Non-stop,1.1,3924.0
+FLT0087,SpiceJet,Bangalore,Mumbai,3,75.0,1 Stop,9.6,12733.0
+FLT0088,Vistara,Bangalore,Delhi,8,87.0,1 Stop,6.3,12338.0
+FLT0089,IndiGo,Hyderabad,Kolkata,8,88.0,1 Stop,8.0,9662.0
+FLT0090,Vistara,Delhi,Bangalore,2,70.0,Non-stop,4.4,10383.0
+FLT0091,IndiGo,Kolkata,Bangalore,10,66.0,1 Stop,1.1,3088.0
+FLT0092,SpiceJet,Hyderabad,Bangalore,7,59.0,1 Stop,5.6,7125.0
+FLT0093,Air India,Chennai,Goa,3,29.0,Non-stop,5.6,10599.0
+FLT0094,Air India,Bangalore,Kolkata,10,59.0,Non-stop,4.9,9603.0
+FLT0095,Air India,Delhi,Chennai,12,2.0,Non-stop,4.1,8035.0
+FLT0096,SpiceJet,Kolkata,Mumbai,6,116.0,2 Stops,3.2,5529.0
+FLT0097,Air India,Bangalore,Pune,4,45.0,1 Stop,5.7,9058.0
+FLT0098,IndiGo,Delhi,Goa,4,91.0,1 Stop,4.4,7931.0
+FLT0099,IndiGo,Bangalore,Delhi,8,115.0,1 Stop,9.7,13924.0
+FLT0100,Akasa Air,Hyderabad,Goa,1,60.0,1 Stop,2.6,4510.0
+FLT0101,Akasa Air,Mumbai,Hyderabad,6,104.0,1 Stop,3.9,7044.0
+FLT0102,SpiceJet,Mumbai,Delhi,1,58.0,1 Stop,3.6,6346.0
+FLT0103,IndiGo,Kolkata,Pune,1,16.0,1 Stop,5.9,7508.0
+FLT0104,Akasa Air,Mumbai,Delhi,6,4.0,Non-stop,5.5,9969.0
+FLT0105,GoAir,Hyderabad,Delhi,9,17.0,1 Stop,6.8,7768.0
+FLT0106,SpiceJet,Hyderabad,Delhi,11,,1 Stop,9.6,11156.0
+FLT0107,Air India,Hyderabad,Chennai,2,58.0,Non-stop,3.6,7224.0
+FLT0108,IndiGo,Hyderabad,Kolkata,3,39.0,1 Stop,7.2,9233.0
+FLT0109,IndiGo,Mumbai,Chennai,6,54.0,Non-stop,1.2,4290.0
+FLT0110,Akasa Air,Mumbai,Delhi,7,31.0,2 Stops,3.4,4718.0
+FLT0111,Air India,Bangalore,Mumbai,12,105.0,2 Stops,5.2,9444.0
+FLT0112,IndiGo,Bangalore,Pune,9,120.0,2 Stops,1.3,3868.0
+FLT0113,Air India,Hyderabad,Goa,7,11.0,Non-stop,6.6,10951.0
+FLT0114,Vistara,Kolkata,Pune,1,87.0,Non-stop,7.1,12913.0
+FLT0115,IndiGo,Chennai,Delhi,1,41.0,Non-stop,7.7,11455.0
+FLT0116,GoAir,Hyderabad,Pune,2,6.0,Non-stop,5.6,5071.0
+FLT0117,SpiceJet,Chennai,Hyderabad,8,111.0,Non-stop,6.4,8831.0
+FLT0118,SpiceJet,Bangalore,Kolkata,4,8.0,Non-stop,4.6,7216.0
+FLT0119,Air India,Bangalore,Mumbai,3,25.0,2 Stops,1.4,3824.0
+FLT0120,Vistara,Chennai,Goa,9,4.0,Non-stop,1.9,6956.0
+FLT0121,Vistara,Delhi,Chennai,10,57.0,Non-stop,6.9,12992.0
+FLT0122,SpiceJet,Kolkata,Delhi,6,72.0,1 Stop,10.0,11276.0
+FLT0123,IndiGo,Chennai,Mumbai,11,39.0,1 Stop,1.1,2049.0
+FLT0124,Air India,Kolkata,Chennai,9,9.0,1 Stop,6.0,8008.0
+FLT0125,IndiGo,Chennai,Delhi,9,14.0,1 Stop,7.8,9350.0
+FLT0126,Vistara,Kolkata,Bangalore,11,113.0,1 Stop,8.4,14981.0
+FLT0127,Air India,Hyderabad,Chennai,3,97.0,1 Stop,5.9,9352.0
+FLT0128,IndiGo,Chennai,Goa,10,113.0,1 Stop,6.6,10533.0
+FLT0129,IndiGo,Bangalore,Delhi,12,64.0,1 Stop,7.3,10927.0
+FLT0130,Vistara,Delhi,Kolkata,12,66.0,1 Stop,8.7,14461.0
+FLT0131,IndiGo,Kolkata,Goa,7,95.0,Non-stop,2.1,6812.0
+FLT0132,Akasa Air,Hyderabad,Pune,10,74.0,1 Stop,9.3,9370.0
+FLT0133,Vistara,Kolkata,Goa,11,53.0,Non-stop,1.2,5722.0
+FLT0134,Air India,Hyderabad,Mumbai,11,36.0,1 Stop,8.5,11149.0
+FLT0135,Vistara,Hyderabad,Pune,11,59.0,Non-stop,1.7,5292.0
+FLT0136,IndiGo,Kolkata,Goa,10,8.0,Non-stop,2.8,6480.0
+FLT0137,Akasa Air,Chennai,Bangalore,5,24.0,Non-stop,1.0,5331.0
+FLT0138,Vistara,Delhi,Chennai,9,89.0,1 Stop,5.0,9722.0
+FLT0139,GoAir,Delhi,Kolkata,5,105.0,Non-stop,4.0,6944.0
+FLT0140,IndiGo,Mumbai,Chennai,10,13.0,1 Stop,2.5,3857.0
+FLT0141,Vistara,Bangalore,Goa,10,12.0,1 Stop,5.1,10814.0
+FLT0142,Vistara,Kolkata,Goa,12,11.0,Non-stop,4.6,9932.0
+FLT0143,Akasa Air,Bangalore,Goa,8,95.0,1 Stop,7.9,12033.0
+FLT0144,Vistara,Delhi,Chennai,6,38.0,Non-stop,9.0,17584.0
+FLT0145,Vistara,Mumbai,Pune,2,40.0,Non-stop,6.9,13605.0
+FLT0146,IndiGo,Hyderabad,Chennai,8,2.0,1 Stop,2.1,3407.0
+FLT0147,Air India,Hyderabad,Pune,7,117.0,2 Stops,3.7,5853.0
+FLT0148,Vistara,Bangalore,Kolkata,7,53.0,Non-stop,9.2,18082.0
+FLT0149,Air India,Kolkata,Chennai,9,96.0,1 Stop,1.8,4295.0
+FLT0150,IndiGo,Kolkata,Mumbai,11,85.0,Non-stop,4.7,10691.0
+FLT0151,GoAir,Hyderabad,Kolkata,2,18.0,1 Stop,9.5,8957.0
+FLT0152,Akasa Air,Hyderabad,Bangalore,6,97.0,1 Stop,9.6,12272.0
+FLT0153,IndiGo,Chennai,Mumbai,9,67.0,1 Stop,4.7,5832.0
+FLT0154,Vistara,Bangalore,Mumbai,10,73.0,1 Stop,7.0,14678.0
+FLT0155,IndiGo,Chennai,Goa,10,25.0,Non-stop,5.1,9853.0
+FLT0156,SpiceJet,Mumbai,Delhi,10,102.0,1 Stop,7.8,10781.0
+FLT0157,Air India,Bangalore,Pune,11,112.0,1 Stop,1.3,5174.0
+FLT0158,SpiceJet,Chennai,Pune,12,49.0,1 Stop,2.3,4267.0
+FLT0159,SpiceJet,Chennai,Delhi,8,12.0,Non-stop,6.5,8612.0
+FLT0160,SpiceJet,Chennai,Kolkata,3,102.0,1 Stop,3.1,5461.0
+FLT0161,IndiGo,Bangalore,Kolkata,7,107.0,Non-stop,7.0,11470.0
+FLT0162,Akasa Air,Bangalore,Chennai,9,61.0,Non-stop,4.2,7125.0
+FLT0163,IndiGo,Delhi,Hyderabad,2,70.0,Non-stop,9.0,13657.0
+FLT0164,IndiGo,Chennai,Delhi,10,27.0,1 Stop,8.4,10947.0
+FLT0165,Vistara,Chennai,Mumbai,7,9.0,1 Stop,5.4,9215.0
+FLT0166,Air India,Hyderabad,Chennai,12,114.0,Non-stop,8.0,12696.0
+FLT0167,GoAir,Chennai,Pune,3,58.0,1 Stop,3.4,3985.0
+FLT0168,GoAir,Bangalore,Hyderabad,11,33.0,1 Stop,5.4,7254.0
+FLT0169,Air India,Delhi,Chennai,6,84.0,1 Stop,2.8,5684.0
+FLT0170,Akasa Air,Mumbai,Goa,7,4.0,1 Stop,8.7,12054.0
+FLT0171,Air India,Bangalore,Pune,8,10.0,1 Stop,8.4,11469.0
+FLT0172,Vistara,Bangalore,Goa,7,30.0,1 Stop,9.1,16533.0
+FLT0173,IndiGo,Bangalore,Hyderabad,11,55.0,2 Stops,8.9,10615.0
+FLT0174,Akasa Air,Bangalore,Chennai,3,45.0,1 Stop,9.6,11189.0
+FLT0175,IndiGo,Kolkata,Pune,9,23.0,1 Stop,3.1,4417.0
+FLT0176,IndiGo,Delhi,Bangalore,12,43.0,1 Stop,9.4,12289.0
+FLT0177,Air India,Mumbai,Bangalore,3,41.0,1 Stop,6.1,11258.0
+FLT0178,Akasa Air,Delhi,Chennai,4,63.0,Non-stop,4.8,7492.0
+FLT0179,Akasa Air,Mumbai,Goa,6,68.0,1 Stop,6.0,10049.0
+FLT0180,SpiceJet,Kolkata,Goa,9,106.0,1 Stop,4.1,6805.0
+FLT0181,Akasa Air,Delhi,Chennai,12,97.0,2 Stops,3.6,4798.0
+FLT0182,Akasa Air,Bangalore,Chennai,10,36.0,1 Stop,3.2,4796.0
+FLT0183,Vistara,Delhi,Bangalore,10,109.0,1 Stop,1.7,7280.0
+FLT0184,Air India,Hyderabad,Chennai,6,63.0,2 Stops,5.5,7354.0
+FLT0185,GoAir,Kolkata,Bangalore,8,23.0,1 Stop,9.0,9377.0
+FLT0186,SpiceJet,Mumbai,Kolkata,3,41.0,Non-stop,6.7,10389.0
+FLT0187,Air India,Mumbai,Bangalore,6,90.0,Non-stop,5.7,12944.0
+FLT0188,IndiGo,Delhi,Bangalore,3,99.0,Non-stop,4.9,12075.0
+FLT0189,SpiceJet,Bangalore,Goa,1,45.0,Non-stop,5.2,9568.0
+FLT0190,IndiGo,Kolkata,Bangalore,11,19.0,1 Stop,2.9,5159.0
+FLT0191,Akasa Air,Chennai,Delhi,10,24.0,1 Stop,8.4,10695.0
+FLT0192,IndiGo,Hyderabad,Chennai,7,13.0,1 Stop,2.8,3065.0
+FLT0193,IndiGo,Bangalore,Kolkata,1,84.0,Non-stop,7.4,12278.0
+FLT0194,GoAir,Mumbai,Delhi,2,61.0,1 Stop,7.8,11215.0
+FLT0195,IndiGo,Bangalore,Hyderabad,2,55.0,Non-stop,6.2,9834.0
+FLT0196,IndiGo,Mumbai,Bangalore,9,81.0,2 Stops,8.8,10257.0
+FLT0197,Vistara,Hyderabad,Kolkata,3,100.0,Non-stop,3.6,8524.0
+FLT0198,GoAir,Mumbai,Hyderabad,4,96.0,1 Stop,8.9,11170.0
+FLT0199,IndiGo,Bangalore,Goa,11,17.0,Non-stop,7.6,13737.0
+FLT0200,Air India,Chennai,Pune,11,71.0,1 Stop,8.2,10067.0
+FLT0201,GoAir,Delhi,Pune,10,106.0,Non-stop,7.0,8988.0
+FLT0202,Akasa Air,Bangalore,Mumbai,4,93.0,1 Stop,8.6,11833.0
+FLT0203,Vistara,Bangalore,Pune,7,40.0,Non-stop,9.9,17591.0
+FLT0204,IndiGo,Mumbai,Kolkata,3,48.0,2 Stops,4.8,7444.0
+FLT0205,IndiGo,Delhi,Pune,11,107.0,1 Stop,8.3,11241.0
+FLT0206,IndiGo,Delhi,Pune,2,4.0,1 Stop,7.7,9136.0
+FLT0207,IndiGo,Delhi,Kolkata,9,64.0,1 Stop,5.1,6716.0
+FLT0208,SpiceJet,Bangalore,Pune,7,14.0,2 Stops,9.3,7793.0
+FLT0209,IndiGo,Delhi,Kolkata,10,108.0,Non-stop,4.5,9078.0
+FLT0210,Vistara,Hyderabad,Pune,6,5.0,Non-stop,6.1,9581.0
+FLT0211,SpiceJet,Mumbai,Goa,2,3.0,Non-stop,2.0,4838.0
+FLT0212,Vistara,Chennai,Goa,10,40.0,Non-stop,3.0,8503.0
+FLT0213,IndiGo,Kolkata,Mumbai,8,25.0,1 Stop,8.6,10475.0
+FLT0214,GoAir,Bangalore,Kolkata,6,60.0,2 Stops,4.6,5180.0
+FLT0215,SpiceJet,Hyderabad,Delhi,5,36.0,2 Stops,4.5,5333.0
+FLT0216,SpiceJet,Delhi,Hyderabad,5,43.0,1 Stop,3.2,5381.0
+FLT0217,IndiGo,Mumbai,Goa,6,68.0,1 Stop,5.4,10327.0
+FLT0218,IndiGo,Mumbai,Delhi,4,68.0,1 Stop,8.3,12288.0
+FLT0219,Akasa Air,Delhi,Hyderabad,4,113.0,2 Stops,9.1,9606.0
+FLT0220,Air India,Mumbai,Goa,4,58.0,Non-stop,1.6,5771.0
+FLT0221,Air India,Mumbai,Pune,1,68.0,1 Stop,6.2,8714.0
+FLT0222,Vistara,Kolkata,Chennai,12,82.0,1 Stop,5.2,9400.0
+FLT0223,SpiceJet,Mumbai,Delhi,3,21.0,Non-stop,6.5,10503.0
+FLT0224,Akasa Air,Hyderabad,Goa,2,81.0,1 Stop,5.0,7576.0
+FLT0225,Air India,Kolkata,Goa,2,104.0,2 Stops,4.6,6479.0
+FLT0226,Akasa Air,Hyderabad,Kolkata,12,39.0,2 Stops,5.2,5343.0
+FLT0227,IndiGo,Delhi,Goa,6,22.0,2 Stops,6.2,9236.0
+FLT0228,Vistara,Hyderabad,Delhi,4,42.0,1 Stop,5.5,9504.0
+FLT0229,SpiceJet,Chennai,Kolkata,5,34.0,Non-stop,5.2,6873.0
+FLT0230,IndiGo,Hyderabad,Delhi,2,71.0,Non-stop,8.4,13795.0
+FLT0231,IndiGo,Bangalore,Goa,4,104.0,1 Stop,7.7,12139.0
+FLT0232,Air India,Hyderabad,Kolkata,3,72.0,1 Stop,4.1,6999.0
+FLT0233,Akasa Air,Chennai,Goa,10,16.0,1 Stop,8.2,10410.0
+FLT0234,Vistara,Delhi,Kolkata,1,38.0,1 Stop,8.7,13748.0
+FLT0235,Akasa Air,Bangalore,Delhi,6,83.0,Non-stop,2.4,6019.0
+FLT0236,GoAir,Delhi,Pune,10,40.0,1 Stop,6.2,8222.0
+FLT0237,Vistara,Hyderabad,Bangalore,11,71.0,Non-stop,3.6,10166.0
+FLT0238,GoAir,Mumbai,Hyderabad,7,84.0,Non-stop,7.7,11246.0
+FLT0239,IndiGo,Mumbai,Kolkata,3,40.0,Non-stop,3.1,7001.0
+FLT0240,IndiGo,Chennai,Pune,5,78.0,Non-stop,7.0,9382.0
+FLT0241,GoAir,Bangalore,Mumbai,3,48.0,,3.3,6441.0
+FLT0242,GoAir,Delhi,Chennai,8,17.0,1 Stop,5.6,6038.0
+FLT0243,IndiGo,Kolkata,Mumbai,4,45.0,Non-stop,9.5,14761.0
+FLT0244,Vistara,Hyderabad,Chennai,8,53.0,1 Stop,4.4,6629.0
+FLT0245,Vistara,Kolkata,Chennai,8,1.0,1 Stop,8.9,11549.0
+FLT0246,GoAir,Chennai,Delhi,12,108.0,Non-stop,9.9,13517.0
+FLT0247,Vistara,Bangalore,Kolkata,5,64.0,Non-stop,8.9,17599.0
+FLT0248,Air India,Chennai,Pune,12,5.0,Non-stop,2.5,4069.0
+FLT0249,Air India,Chennai,Goa,5,105.0,1 Stop,8.4,13880.0
+FLT0250,Air India,Delhi,Bangalore,9,103.0,Non-stop,1.3,7316.0
+FLT0251,SpiceJet,Delhi,Goa,8,2.0,Non-stop,4.5,8682.0
+FLT0252,GoAir,Mumbai,Goa,10,20.0,Non-stop,8.8,13061.0
+FLT0253,Air India,Bangalore,Goa,6,44.0,1 Stop,7.2,12627.0
+FLT0254,IndiGo,Delhi,Bangalore,10,61.0,Non-stop,5.8,11093.0
+FLT0255,IndiGo,Delhi,Pune,5,88.0,1 Stop,4.5,7633.0
+FLT0256,SpiceJet,Hyderabad,Kolkata,6,51.0,Non-stop,8.3,10527.0
+FLT0257,GoAir,Bangalore,Delhi,6,74.0,1 Stop,7.4,9778.0
+FLT0258,IndiGo,Chennai,Bangalore,9,2.0,1 Stop,5.2,7348.0
+FLT0259,IndiGo,Chennai,Hyderabad,8,80.0,1 Stop,9.0,10666.0
+FLT0260,Vistara,Kolkata,Mumbai,1,110.0,Non-stop,3.1,9442.0
+FLT0261,IndiGo,Kolkata,Chennai,10,64.0,1 Stop,2.5,4578.0
+FLT0262,GoAir,Mumbai,Pune,10,55.0,2 Stops,6.8,7758.0
+FLT0263,Air India,Hyderabad,Mumbai,2,36.0,Non-stop,9.7,16446.0
+FLT0264,IndiGo,Bangalore,Chennai,12,115.0,Non-stop,3.2,7997.0
+FLT0265,Akasa Air,Hyderabad,Mumbai,8,4.0,2 Stops,3.2,5377.0
+FLT0266,IndiGo,Bangalore,Kolkata,2,35.0,1 Stop,2.3,4393.0
+FLT0267,Air India,Delhi,Mumbai,6,17.0,Non-stop,8.7,17080.0
+FLT0268,IndiGo,Kolkata,Goa,11,104.0,Non-stop,3.0,8105.0
+FLT0269,IndiGo,Delhi,Chennai,4,58.0,1 Stop,5.5,9892.0
+FLT0270,IndiGo,Kolkata,Goa,12,111.0,1 Stop,9.9,13207.0
+FLT0271,IndiGo,Delhi,Pune,6,80.0,1 Stop,1.1,3266.0
+FLT0272,IndiGo,Mumbai,Pune,3,67.0,2 Stops,6.0,7488.0
+FLT0273,IndiGo,Chennai,Pune,5,63.0,1 Stop,5.6,7441.0
+FLT0274,Vistara,Hyderabad,Mumbai,7,25.0,Non-stop,8.3,16909.0
+FLT0275,SpiceJet,Bangalore,Goa,9,68.0,1 Stop,4.2,6690.0
+FLT0276,Air India,Delhi,Kolkata,12,83.0,Non-stop,4.7,10707.0
+FLT0277,Air India,Mumbai,Goa,3,116.0,Non-stop,2.5,9253.0
+FLT0278,Vistara,Hyderabad,Goa,12,66.0,Non-stop,7.7,16511.0
+FLT0279,GoAir,Kolkata,Hyderabad,7,113.0,Non-stop,8.1,9745.0
+FLT0280,GoAir,Delhi,Bangalore,2,114.0,1 Stop,2.2,5821.0
+FLT0281,IndiGo,Bangalore,Delhi,12,63.0,Non-stop,4.5,10062.0
+FLT0282,IndiGo,Mumbai,Delhi,5,53.0,1 Stop,9.0,13218.0
+FLT0283,IndiGo,Mumbai,Chennai,8,18.0,1 Stop,1.0,3272.0
+FLT0284,IndiGo,Hyderabad,Pune,9,33.0,1 Stop,3.7,5052.0
+FLT0285,Vistara,Chennai,Kolkata,1,106.0,1 Stop,6.0,10554.0
+FLT0286,Air India,Mumbai,Chennai,3,17.0,1 Stop,4.0,7362.0
+FLT0287,IndiGo,Chennai,Mumbai,9,48.0,1 Stop,3.4,5908.0
+FLT0288,Air India,Bangalore,Kolkata,4,84.0,Non-stop,5.1,10012.0
+FLT0289,Vistara,Delhi,Hyderabad,1,29.0,1 Stop,2.6,5104.0
+FLT0290,IndiGo,Bangalore,Goa,1,117.0,1 Stop,5.8,9627.0
+FLT0291,GoAir,Mumbai,Hyderabad,10,78.0,Non-stop,7.4,10488.0
+FLT0292,IndiGo,Mumbai,Kolkata,2,4.0,Non-stop,6.2,10011.0
+FLT0293,Akasa Air,Hyderabad,Goa,2,30.0,Non-stop,1.8,4649.0
+FLT0294,IndiGo,Kolkata,Chennai,7,89.0,1 Stop,8.6,10881.0
+FLT0295,GoAir,Delhi,Goa,2,104.0,Non-stop,2.6,5950.0
+FLT0296,Akasa Air,Hyderabad,Bangalore,8,112.0,Non-stop,7.9,12814.0
+FLT0297,Akasa Air,Chennai,Mumbai,7,103.0,1 Stop,4.2,6705.0
+FLT0298,GoAir,Hyderabad,Chennai,8,9.0,2 Stops,8.0,6554.0
+FLT0299,GoAir,Kolkata,Mumbai,6,88.0,Non-stop,2.9,6741.0
+FLT0300,SpiceJet,Bangalore,Delhi,10,14.0,2 Stops,2.7,2929.0
+FLT0301,GoAir,Chennai,Goa,8,10.0,Non-stop,5.5,7595.0
+FLT0302,IndiGo,Chennai,Pune,5,84.0,2 Stops,1.3,3868.0
+FLT0303,Vistara,Kolkata,Mumbai,1,58.0,2 Stops,3.0,5279.0
+FLT0304,Vistara,Mumbai,Pune,4,78.0,Non-stop,7.5,15442.0
+FLT0305,GoAir,Mumbai,Delhi,2,103.0,1 Stop,8.5,11961.0
+FLT0306,Vistara,Mumbai,Bangalore,1,9.0,2 Stops,1.7,4438.0
+FLT0307,Air India,Mumbai,Hyderabad,4,64.0,2 Stops,8.9,11345.0
+FLT0308,SpiceJet,Delhi,Bangalore,3,101.0,2 Stops,8.2,10366.0
+FLT0309,IndiGo,Delhi,Hyderabad,1,53.0,1 Stop,8.8,10307.0
+FLT0310,IndiGo,Hyderabad,Pune,4,63.0,Non-stop,7.3,10157.0
+FLT0311,Vistara,Delhi,Pune,7,60.0,1 Stop,7.1,10797.0
+FLT0312,Air India,Hyderabad,Delhi,3,109.0,1 Stop,5.7,8846.0
+FLT0313,IndiGo,Delhi,Goa,4,6.0,1 Stop,6.9,9369.0
+FLT0314,Air India,Kolkata,Pune,1,106.0,Non-stop,9.3,14313.0
+FLT0315,Air India,Mumbai,Kolkata,1,98.0,1 Stop,1.9,6281.0
+FLT0316,Air India,Chennai,Mumbai,2,98.0,Non-stop,3.8,8844.0
+FLT0317,Air India,Mumbai,Chennai,6,50.0,1 Stop,1.7,4178.0
+FLT0318,SpiceJet,Bangalore,Hyderabad,8,62.0,Non-stop,9.5,11975.0
+FLT0319,Air India,Bangalore,Kolkata,10,45.0,1 Stop,5.0,8669.0
+FLT0320,Akasa Air,Chennai,Mumbai,8,31.0,1 Stop,7.1,10235.0
+FLT0321,Akasa Air,Bangalore,Hyderabad,8,106.0,1 Stop,8.6,10904.0
+FLT0322,Vistara,Chennai,Hyderabad,12,61.0,1 Stop,9.9,14089.0
+FLT0323,Air India,Kolkata,Delhi,4,87.0,Non-stop,2.5,7378.0
+FLT0324,Vistara,Bangalore,Chennai,10,13.0,2 Stops,8.2,11417.0
+FLT0325,GoAir,Bangalore,Pune,12,95.0,1 Stop,9.0,9796.0
+FLT0326,SpiceJet,Delhi,Kolkata,7,80.0,Non-stop,1.4,3766.0
+FLT0327,GoAir,Bangalore,Mumbai,11,120.0,Non-stop,7.8,13955.0
+FLT0328,Vistara,Delhi,Hyderabad,2,17.0,Non-stop,4.2,7303.0
+FLT0329,SpiceJet,Mumbai,Kolkata,11,65.0,1 Stop,6.8,9753.0
+FLT0330,Air India,Hyderabad,Chennai,7,62.0,2 Stops,5.6,6744.0
+FLT0331,SpiceJet,Delhi,Goa,3,65.0,1 Stop,3.3,5705.0
+FLT0332,IndiGo,Bangalore,Kolkata,1,7.0,Non-stop,2.2,6138.0
+FLT0333,SpiceJet,Hyderabad,Goa,9,57.0,1 Stop,2.1,3753.0
+FLT0334,GoAir,Hyderabad,Mumbai,6,36.0,Non-stop,1.9,4125.0
+FLT0335,IndiGo,Delhi,Chennai,4,75.0,1 Stop,6.7,9012.0
+FLT0336,Vistara,Delhi,Mumbai,5,28.0,Non-stop,4.2,11298.0
+FLT0337,IndiGo,Bangalore,Kolkata,12,53.0,1 Stop,2.9,5450.0
+FLT0338,SpiceJet,Chennai,Mumbai,6,75.0,2 Stops,7.2,7351.0
+FLT0339,IndiGo,Hyderabad,Chennai,1,8.0,Non-stop,7.2,9008.0
+FLT0340,Akasa Air,Mumbai,Bangalore,4,95.0,1 Stop,5.9,10155.0
+FLT0341,IndiGo,Delhi,Mumbai,2,86.0,2 Stops,9.4,11741.0
+FLT0342,Akasa Air,Mumbai,Delhi,9,7.0,Non-stop,4.5,8240.0
+FLT0343,GoAir,Hyderabad,Kolkata,10,8.0,Non-stop,8.5,9643.0
+FLT0344,Vistara,Delhi,Goa,11,103.0,1 Stop,1.7,6529.0
+FLT0345,GoAir,Bangalore,Mumbai,8,34.0,Non-stop,7.7,12712.0
+FLT0346,GoAir,Delhi,Chennai,10,104.0,Non-stop,9.9,12850.0
+FLT0347,Akasa Air,Delhi,Mumbai,6,60.0,1 Stop,8.6,11551.0
+FLT0348,IndiGo,Hyderabad,Pune,8,42.0,1 Stop,6.2,7764.0
+FLT0349,Vistara,Delhi,Chennai,2,33.0,Non-stop,6.6,12534.0
+FLT0350,IndiGo,Mumbai,Goa,7,80.0,Non-stop,4.2,9077.0
+FLT0351,Vistara,Hyderabad,Mumbai,7,14.0,1 Stop,7.1,11605.0
+FLT0352,IndiGo,Chennai,Delhi,1,49.0,1 Stop,7.9,10029.0
+FLT0353,Vistara,Delhi,Kolkata,7,42.0,1 Stop,10.0,15864.0
+FLT0354,Vistara,Bangalore,Hyderabad,9,19.0,1 Stop,5.4,10685.0
+FLT0355,Vistara,Hyderabad,Goa,5,43.0,2 Stops,1.6,4997.0
+FLT0356,Vistara,Bangalore,Pune,7,64.0,1 Stop,6.4,9209.0
+FLT0357,SpiceJet,Chennai,Goa,4,82.0,Non-stop,2.1,5613.0
+FLT0358,GoAir,Chennai,Hyderabad,4,11.0,1 Stop,3.2,4071.0
+FLT0359,Vistara,Chennai,Bangalore,2,105.0,1 Stop,4.0,8895.0
+FLT0360,Vistara,Mumbai,Chennai,4,106.0,Non-stop,7.6,16400.0
+FLT0361,Akasa Air,Hyderabad,Mumbai,10,84.0,Non-stop,2.7,5980.0
+FLT0362,IndiGo,Hyderabad,Chennai,12,111.0,1 Stop,2.5,5043.0
+FLT0363,IndiGo,Delhi,Bangalore,8,52.0,Non-stop,1.4,5213.0
+FLT0364,IndiGo,Kolkata,Delhi,8,99.0,Non-stop,8.9,13458.0
+FLT0365,SpiceJet,Kolkata,Mumbai,8,88.0,Non-stop,7.2,10647.0
+FLT0366,Air India,Kolkata,Delhi,6,68.0,1 Stop,1.4,6695.0
+FLT0367,GoAir,Bangalore,Kolkata,6,22.0,Non-stop,1.3,3474.0
+FLT0368,SpiceJet,Bangalore,Goa,8,67.0,1 Stop,6.0,9082.0
+FLT0369,Air India,Hyderabad,Chennai,10,109.0,Non-stop,3.5,6541.0
+FLT0370,Akasa Air,Delhi,Goa,5,119.0,Non-stop,6.4,12245.0
+FLT0371,SpiceJet,Kolkata,Hyderabad,7,54.0,1 Stop,4.9,5460.0
+FLT0372,IndiGo,Hyderabad,Delhi,6,30.0,Non-stop,9.3,12878.0
+FLT0373,Air India,Kolkata,Mumbai,4,90.0,1 Stop,3.6,8108.0
+FLT0374,Air India,Bangalore,Hyderabad,4,10.0,Non-stop,7.1,12016.0
+FLT0375,IndiGo,Chennai,Kolkata,1,19.0,Non-stop,1.5,4297.0
+FLT0376,IndiGo,Delhi,Bangalore,6,68.0,Non-stop,9.6,14655.0
+FLT0377,Akasa Air,Hyderabad,Kolkata,9,119.0,1 Stop,9.8,12187.0
+FLT0378,Air India,Bangalore,Goa,9,40.0,Non-stop,7.7,14372.0
+FLT0379,Air India,Delhi,Chennai,12,54.0,1 Stop,5.2,9644.0
+FLT0380,SpiceJet,Kolkata,Delhi,1,39.0,Non-stop,3.0,6365.0
+FLT0381,Vistara,Chennai,Bangalore,10,53.0,1 Stop,8.3,14142.0
+FLT0382,Akasa Air,Chennai,Goa,10,1.0,1 Stop,7.6,8859.0
+FLT0383,GoAir,Delhi,Pune,6,72.0,Non-stop,3.0,5694.0
+FLT0384,Vistara,Kolkata,Pune,4,72.0,1 Stop,5.1,8282.0
+FLT0385,Air India,Chennai,Goa,5,38.0,Non-stop,5.2,10698.0
+FLT0386,Akasa Air,Kolkata,Delhi,9,32.0,1 Stop,8.4,9880.0
+FLT0387,SpiceJet,Kolkata,Bangalore,11,92.0,Non-stop,7.2,10104.0
+FLT0388,Akasa Air,Mumbai,Delhi,8,23.0,1 Stop,6.8,10020.0
+FLT0389,IndiGo,Mumbai,Delhi,7,6.0,2 Stops,6.8,8398.0
+FLT0390,GoAir,Hyderabad,Pune,8,5.0,Non-stop,3.4,4291.0
+FLT0391,SpiceJet,Chennai,Goa,1,106.0,1 Stop,4.3,6542.0
+FLT0392,IndiGo,Bangalore,Mumbai,8,44.0,1 Stop,1.4,4422.0
+FLT0393,Vistara,Mumbai,Hyderabad,1,13.0,Non-stop,8.1,14590.0
+FLT0394,SpiceJet,Chennai,Kolkata,12,106.0,1 Stop,4.9,5467.0
+FLT0395,IndiGo,Kolkata,Delhi,11,18.0,1 Stop,4.9,7506.0
+FLT0396,Air India,Delhi,Goa,7,41.0,2 Stops,3.2,6375.0
+FLT0397,GoAir,Chennai,Pune,5,3.0,2 Stops,2.9,3265.0
+FLT0398,Air India,Hyderabad,Kolkata,9,82.0,Non-stop,6.3,9955.0
+FLT0399,Air India,Mumbai,Hyderabad,8,84.0,1 Stop,3.1,6496.0
+FLT0400,Air India,Mumbai,Chennai,9,91.0,1 Stop,1.6,4045.0
+FLT0401,Air India,Hyderabad,Pune,7,32.0,Non-stop,7.9,10413.0
+FLT0402,Akasa Air,Delhi,Chennai,3,40.0,Non-stop,4.4,6825.0
+FLT0403,GoAir,Bangalore,Goa,1,113.0,2 Stops,4.4,7103.0
+FLT0404,IndiGo,Bangalore,Delhi,4,99.0,Non-stop,4.9,9594.0
+FLT0405,Akasa Air,Kolkata,Mumbai,7,5.0,1 Stop,8.3,9877.0
+FLT0406,GoAir,Delhi,Goa,6,84.0,1 Stop,3.9,8040.0
+FLT0407,Air India,Bangalore,Kolkata,7,98.0,Non-stop,7.8,14634.0
+FLT0408,GoAir,Delhi,Bangalore,4,68.0,1 Stop,9.5,11634.0
+FLT0409,IndiGo,Kolkata,Pune,12,77.0,2 Stops,6.9,7312.0
+FLT0410,Akasa Air,Chennai,Mumbai,5,1.0,1 Stop,4.9,6519.0
+FLT0411,SpiceJet,Bangalore,Kolkata,11,4.0,Non-stop,7.7,9636.0
+FLT0412,SpiceJet,Bangalore,Mumbai,5,5.0,Non-stop,5.1,9619.0
+FLT0413,IndiGo,Delhi,Mumbai,6,20.0,2 Stops,4.7,7127.0
+FLT0414,Akasa Air,Hyderabad,Goa,8,119.0,Non-stop,5.7,9767.0
+FLT0415,IndiGo,Chennai,Mumbai,4,77.0,1 Stop,3.9,6592.0
+FLT0416,IndiGo,Mumbai,Delhi,3,94.0,Non-stop,1.9,6545.0
+FLT0417,IndiGo,Bangalore,Hyderabad,5,36.0,1 Stop,4.7,6037.0
+FLT0418,GoAir,Kolkata,Pune,10,113.0,2 Stops,,3045.0
+FLT0419,IndiGo,Kolkata,Mumbai,2,24.0,1 Stop,4.7,6391.0
+FLT0420,Akasa Air,Bangalore,Hyderabad,6,109.0,2 Stops,6.0,8666.0
+FLT0421,SpiceJet,Mumbai,Kolkata,9,4.0,Non-stop,9.4,13426.0
+FLT0422,IndiGo,Chennai,Pune,9,3.0,1 Stop,1.3,1329.0
+FLT0423,IndiGo,Chennai,Mumbai,6,10.0,1 Stop,6.6,8114.0
+FLT0424,IndiGo,Chennai,Goa,1,96.0,1 Stop,5.1,8156.0
+FLT0425,Vistara,Delhi,Kolkata,1,31.0,Non-stop,1.2,4798.0
+FLT0426,GoAir,Bangalore,Pune,6,55.0,1 Stop,3.2,4049.0
+FLT0427,IndiGo,Chennai,Bangalore,10,57.0,Non-stop,2.1,6644.0
+FLT0428,GoAir,Hyderabad,Goa,1,95.0,1 Stop,3.0,5358.0
+FLT0429,IndiGo,Chennai,Hyderabad,11,42.0,2 Stops,3.5,5047.0
+FLT0430,GoAir,Bangalore,Mumbai,9,1.0,Non-stop,4.6,7173.0
+FLT0431,Akasa Air,Chennai,Goa,1,47.0,Non-stop,5.8,9984.0
+FLT0432,GoAir,Mumbai,Pune,5,35.0,Non-stop,1.0,3268.0
+FLT0433,SpiceJet,Delhi,Bangalore,3,88.0,Non-stop,2.5,5931.0
+FLT0434,GoAir,Kolkata,Goa,12,91.0,Non-stop,1.8,5757.0
+FLT0435,IndiGo,Hyderabad,Chennai,7,12.0,1 Stop,5.9,5936.0
+FLT0436,IndiGo,Hyderabad,Kolkata,4,96.0,Non-stop,4.0,8284.0
+FLT0437,IndiGo,Chennai,Goa,4,9.0,1 Stop,5.9,8335.0
+FLT0438,Vistara,Delhi,Goa,7,75.0,Non-stop,3.0,10291.0
+FLT0439,SpiceJet,Hyderabad,Mumbai,1,47.0,Non-stop,1.2,3116.0
+FLT0440,SpiceJet,Bangalore,Goa,4,37.0,Non-stop,9.5,14052.0
+FLT0441,GoAir,Mumbai,Chennai,2,58.0,1 Stop,2.0,3250.0
+FLT0442,IndiGo,Hyderabad,Goa,8,38.0,1 Stop,2.1,4564.0
+FLT0443,SpiceJet,Kolkata,Pune,9,96.0,Non-stop,2.3,4886.0
+FLT0444,IndiGo,Kolkata,Chennai,6,117.0,1 Stop,9.8,11892.0
+FLT0445,IndiGo,Mumbai,Chennai,2,98.0,1 Stop,6.6,8991.0
+FLT0446,SpiceJet,Hyderabad,Chennai,5,53.0,Non-stop,6.5,8002.0
+FLT0447,Akasa Air,Bangalore,Pune,11,61.0,2 Stops,9.9,9965.0
+FLT0448,Vistara,Chennai,Delhi,3,54.0,Non-stop,1.8,5908.0
+FLT0449,IndiGo,Kolkata,Bangalore,2,96.0,Non-stop,9.8,14814.0
+FLT0450,Vistara,Chennai,Bangalore,2,67.0,1 Stop,2.8,7865.0
+FLT0451,IndiGo,Mumbai,Bangalore,10,57.0,Non-stop,6.6,11978.0
+FLT0452,GoAir,Mumbai,Chennai,2,50.0,Non-stop,4.8,8449.0
+FLT0453,SpiceJet,Bangalore,Delhi,7,46.0,1 Stop,4.5,6423.0
+FLT0454,IndiGo,Hyderabad,Delhi,12,67.0,Non-stop,9.4,13828.0
+FLT0455,IndiGo,Kolkata,Hyderabad,8,83.0,1 Stop,2.3,4459.0
+FLT0456,IndiGo,Bangalore,Delhi,5,52.0,2 Stops,10.0,10919.0
+FLT0457,Akasa Air,Kolkata,Mumbai,3,97.0,1 Stop,4.4,8090.0
+FLT0458,Air India,Kolkata,Pune,1,100.0,1 Stop,6.8,9351.0
+FLT0459,GoAir,Bangalore,Hyderabad,2,52.0,1 Stop,9.7,10853.0
+FLT0460,SpiceJet,Bangalore,Chennai,12,110.0,2 Stops,1.5,3363.0
+FLT0461,Vistara,Hyderabad,Mumbai,2,21.0,Non-stop,9.3,16977.0
+FLT0462,IndiGo,Chennai,Goa,1,112.0,Non-stop,6.1,10579.0
+FLT0463,Akasa Air,Delhi,Pune,10,36.0,1 Stop,7.3,9117.0
+FLT0464,Air India,Kolkata,Goa,6,68.0,1 Stop,2.3,6320.0
+FLT0465,Vistara,Chennai,Delhi,5,35.0,Non-stop,5.8,12525.0
+FLT0466,SpiceJet,Chennai,Delhi,9,54.0,1 Stop,7.1,9432.0
+FLT0467,SpiceJet,Kolkata,Bangalore,7,41.0,Non-stop,5.1,8975.0
+FLT0468,Akasa Air,Hyderabad,Mumbai,11,85.0,2 Stops,2.4,4975.0
+FLT0469,IndiGo,Mumbai,Pune,6,10.0,Non-stop,3.2,5297.0
+FLT0470,Vistara,Bangalore,Mumbai,9,101.0,Non-stop,8.7,19239.0
+FLT0471,Air India,Mumbai,Bangalore,11,109.0,Non-stop,1.3,6092.0
+FLT0472,Vistara,Chennai,Goa,6,68.0,Non-stop,7.4,16590.0
+FLT0473,IndiGo,Bangalore,Pune,4,66.0,Non-stop,10.0,14056.0
+FLT0474,IndiGo,Bangalore,Mumbai,12,84.0,Non-stop,1.1,4537.0
+FLT0475,IndiGo,Kolkata,Chennai,3,24.0,Non-stop,2.4,4845.0
+FLT0476,Air India,Bangalore,Kolkata,1,90.0,Non-stop,7.1,12381.0
+FLT0477,Air India,Bangalore,Hyderabad,7,27.0,Non-stop,1.5,4668.0
+FLT0478,Vistara,Bangalore,Goa,12,82.0,Non-stop,6.3,15007.0
+FLT0479,SpiceJet,Mumbai,Pune,2,37.0,Non-stop,7.2,10202.0
+FLT0480,Air India,Delhi,Goa,11,90.0,Non-stop,6.3,14039.0
+FLT0481,Air India,Kolkata,Delhi,10,95.0,Non-stop,4.3,10593.0
+FLT0482,IndiGo,Delhi,Mumbai,12,26.0,Non-stop,7.3,13157.0
+FLT0483,Vistara,Mumbai,Kolkata,6,75.0,Non-stop,6.3,14246.0
+FLT0484,Air India,Kolkata,Delhi,4,60.0,1 Stop,2.9,6523.0
+FLT0485,IndiGo,Delhi,Bangalore,7,36.0,2 Stops,6.1,6994.0
+FLT0486,Air India,Chennai,Mumbai,2,71.0,2 Stops,8.9,10949.0
+FLT0487,Vistara,Kolkata,Goa,11,120.0,1 Stop,7.0,14280.0
+FLT0488,IndiGo,Chennai,Delhi,8,1.0,1 Stop,5.2,5542.0
+FLT0489,Vistara,Mumbai,Kolkata,6,115.0,Non-stop,3.9,11307.0
+FLT0490,Vistara,Delhi,Mumbai,7,103.0,1 Stop,1.8,5896.0
+FLT0491,SpiceJet,Hyderabad,Mumbai,9,64.0,1 Stop,3.2,5273.0
+FLT0492,SpiceJet,Mumbai,Kolkata,7,74.0,1 Stop,1.1,2853.0
+FLT0493,SpiceJet,Kolkata,Bangalore,11,45.0,2 Stops,9.9,10672.0
+FLT0494,Air India,Mumbai,Goa,12,16.0,1 Stop,3.0,7014.0
+FLT0495,GoAir,Delhi,Bangalore,12,69.0,1 Stop,8.3,11474.0
+FLT0496,Vistara,Kolkata,Hyderabad,8,98.0,1 Stop,2.5,6154.0
+FLT0497,Air India,Hyderabad,Pune,9,28.0,Non-stop,3.6,5821.0
+FLT0498,Vistara,Hyderabad,Pune,4,87.0,2 Stops,4.8,6872.0
+FLT0499,Air India,Kolkata,Pune,1,90.0,Non-stop,3.9,6804.0
+FLT0500,Vistara,Mumbai,Delhi,5,91.0,2 Stops,8.2,14170.0
+FLT0501,SpiceJet,Hyderabad,Kolkata,11,41.0,1 Stop,9.6,10495.0
+FLT0502,GoAir,Kolkata,Pune,2,48.0,Non-stop,8.9,11815.0
+FLT0503,Akasa Air,Mumbai,Pune,7,50.0,1 Stop,2.4,3951.0
+FLT0504,Vistara,Delhi,Kolkata,3,103.0,Non-stop,8.0,16204.0
+FLT0505,Vistara,Hyderabad,Mumbai,6,109.0,1 Stop,2.3,6643.0
+FLT0506,GoAir,Mumbai,Pune,2,50.0,1 Stop,9.2,9925.0
+FLT0507,Air India,Kolkata,Chennai,9,117.0,1 Stop,5.7,9323.0
+FLT0508,GoAir,Delhi,Goa,10,69.0,1 Stop,4.0,6403.0
+FLT0509,Vistara,Mumbai,Bangalore,10,47.0,Non-stop,2.4,8786.0
+FLT0510,IndiGo,Mumbai,Bangalore,9,1.0,Non-stop,1.1,3600.0
+FLT0511,IndiGo,Mumbai,Delhi,3,74.0,Non-stop,3.2,8145.0
+FLT0512,GoAir,Kolkata,Delhi,7,78.0,Non-stop,9.2,12607.0
+FLT0513,IndiGo,Hyderabad,Chennai,2,117.0,1 Stop,8.2,9901.0
+FLT0514,Air India,Hyderabad,Mumbai,5,87.0,Non-stop,9.7,16476.0
+FLT0515,Air India,Kolkata,Chennai,7,4.0,Non-stop,1.9,6293.0
+FLT0516,IndiGo,Mumbai,Chennai,9,69.0,1 Stop,6.3,8531.0
+FLT0517,Air India,Hyderabad,Kolkata,2,90.0,1 Stop,3.3,6306.0
+FLT0518,SpiceJet,Chennai,Goa,10,60.0,Non-stop,5.9,8979.0
+FLT0519,IndiGo,Chennai,Pune,6,52.0,2 Stops,3.9,6122.0
+FLT0520,GoAir,Kolkata,Chennai,11,98.0,1 Stop,3.6,6080.0
+FLT0521,GoAir,Kolkata,Bangalore,7,74.0,Non-stop,6.2,8930.0
+FLT0522,Air India,Hyderabad,Pune,7,82.0,1 Stop,2.6,5235.0
+FLT0523,IndiGo,Chennai,Delhi,9,56.0,Non-stop,5.2,8963.0
+FLT0524,Vistara,Chennai,Kolkata,10,34.0,Non-stop,6.9,12484.0
+FLT0525,IndiGo,Kolkata,Chennai,2,63.0,1 Stop,2.2,4861.0
+FLT0526,Air India,Mumbai,Hyderabad,7,116.0,Non-stop,9.4,16514.0
+FLT0527,Akasa Air,Mumbai,Kolkata,1,73.0,Non-stop,5.6,9730.0
+FLT0528,Akasa Air,Chennai,Bangalore,6,85.0,1 Stop,8.4,10857.0
+FLT0529,GoAir,Delhi,Mumbai,10,15.0,Non-stop,6.9,10463.0
+FLT0530,Air India,Mumbai,Hyderabad,11,119.0,1 Stop,7.4,12065.0
+FLT0531,SpiceJet,Kolkata,Mumbai,4,30.0,Non-stop,7.4,10905.0
+FLT0532,SpiceJet,Hyderabad,Mumbai,5,117.0,2 Stops,8.9,9387.0
+FLT0533,Air India,Chennai,Mumbai,7,54.0,1 Stop,6.5,11316.0
+FLT0534,SpiceJet,Bangalore,Chennai,5,111.0,2 Stops,3.5,4805.0
+FLT0535,IndiGo,Bangalore,Pune,3,108.0,1 Stop,1.9,4826.0
+FLT0536,IndiGo,Kolkata,Mumbai,4,91.0,Non-stop,6.5,11206.0
+FLT0537,Vistara,Chennai,Pune,5,110.0,1 Stop,1.6,6441.0
+FLT0538,IndiGo,Delhi,Hyderabad,7,74.0,Non-stop,3.2,5894.0
+FLT0539,IndiGo,Chennai,Goa,12,102.0,1 Stop,1.5,4377.0
+FLT0540,GoAir,Bangalore,Mumbai,7,21.0,1 Stop,5.9,7309.0
+FLT0541,Akasa Air,Kolkata,Hyderabad,5,9.0,Non-stop,2.4,4940.0
+FLT0542,Vistara,Hyderabad,Goa,8,66.0,2 Stops,6.5,9377.0
+FLT0543,GoAir,Hyderabad,Pune,10,98.0,Non-stop,8.1,9107.0
+FLT0544,Akasa Air,Chennai,Mumbai,6,92.0,1 Stop,8.4,9751.0
+FLT0545,IndiGo,Bangalore,Pune,6,64.0,1 Stop,3.8,6382.0
+FLT0546,Air India,Bangalore,Delhi,3,63.0,Non-stop,5.9,11622.0
+FLT0547,Air India,Mumbai,Kolkata,11,74.0,1 Stop,6.1,9555.0
+FLT0548,IndiGo,Hyderabad,Chennai,11,105.0,1 Stop,5.3,8210.0
+FLT0549,SpiceJet,Hyderabad,Kolkata,3,102.0,Non-stop,6.9,8713.0
+FLT0550,Air India,Hyderabad,Kolkata,5,14.0,1 Stop,2.9,5797.0
+FLT0551,Vistara,Mumbai,Delhi,4,72.0,Non-stop,9.8,20056.0
+FLT0552,IndiGo,Mumbai,Kolkata,12,46.0,1 Stop,1.9,5770.0
+FLT0553,IndiGo,Hyderabad,Goa,1,96.0,Non-stop,8.5,13970.0
+FLT0554,Akasa Air,Chennai,Bangalore,3,61.0,2 Stops,6.3,6719.0
+FLT0555,IndiGo,Kolkata,Bangalore,4,119.0,2 Stops,3.2,5022.0
+FLT0556,IndiGo,Bangalore,Goa,7,52.0,Non-stop,7.7,14072.0
+FLT0557,Air India,Bangalore,Delhi,3,82.0,Non-stop,1.8,6196.0
+FLT0558,Vistara,Chennai,Mumbai,7,14.0,1 Stop,8.0,13034.0
+FLT0559,Vistara,Kolkata,Mumbai,9,112.0,1 Stop,6.3,13207.0
+FLT0560,Vistara,Bangalore,Chennai,10,19.0,1 Stop,2.0,4758.0
+FLT0561,IndiGo,Kolkata,Goa,2,46.0,Non-stop,1.7,5120.0
+FLT0562,IndiGo,Mumbai,Chennai,2,101.0,Non-stop,7.8,13492.0
+FLT0563,GoAir,Bangalore,Goa,2,117.0,2 Stops,3.6,6402.0
+FLT0564,SpiceJet,Hyderabad,Delhi,11,59.0,1 Stop,9.0,10139.0
+FLT0565,SpiceJet,Hyderabad,Mumbai,8,59.0,1 Stop,7.9,9269.0
+FLT0566,SpiceJet,Hyderabad,Kolkata,7,6.0,1 Stop,7.3,6551.0
+FLT0567,SpiceJet,Mumbai,Pune,10,118.0,2 Stops,3.5,4383.0
+FLT0568,IndiGo,Hyderabad,Mumbai,8,2.0,Non-stop,7.4,11117.0
+FLT0569,Air India,Hyderabad,Kolkata,3,4.0,Non-stop,9.5,13547.0
+FLT0570,Vistara,Hyderabad,Chennai,7,57.0,2 Stops,1.8,4268.0
+FLT0571,Air India,Delhi,Kolkata,9,1.0,2 Stops,3.9,6382.0
+FLT0572,GoAir,Kolkata,Delhi,1,20.0,Non-stop,3.1,4598.0
+FLT0573,Vistara,Hyderabad,Kolkata,8,76.0,Non-stop,4.5,9545.0
+FLT0574,SpiceJet,Kolkata,Goa,6,85.0,1 Stop,7.7,10592.0
+FLT0575,GoAir,Mumbai,Delhi,1,36.0,Non-stop,5.3,8128.0
+FLT0576,Vistara,Kolkata,Chennai,4,96.0,Non-stop,6.1,13451.0
+FLT0577,Akasa Air,Delhi,Chennai,6,73.0,2 Stops,3.8,6051.0
+FLT0578,Vistara,Bangalore,Goa,5,28.0,Non-stop,2.3,8441.0
+FLT0579,GoAir,Chennai,Bangalore,4,86.0,1 Stop,3.4,6572.0
+FLT0580,Air India,Bangalore,Chennai,8,72.0,Non-stop,8.7,14011.0
+FLT0581,Vistara,Kolkata,Hyderabad,5,98.0,Non-stop,6.4,12969.0
+FLT0582,Vistara,Mumbai,Delhi,6,19.0,1 Stop,4.4,9746.0
+FLT0583,IndiGo,Chennai,Pune,10,28.0,Non-stop,8.1,9775.0
+FLT0584,Air India,Chennai,Pune,2,37.0,1 Stop,1.6,3884.0
+FLT0585,Akasa Air,Chennai,Hyderabad,5,41.0,Non-stop,3.3,5108.0
+FLT0586,SpiceJet,Mumbai,Hyderabad,1,107.0,2 Stops,3.1,5278.0
+FLT0587,IndiGo,Mumbai,Hyderabad,12,88.0,1 Stop,9.9,13517.0
+FLT0588,Air India,Mumbai,Pune,3,66.0,1 Stop,7.4,10859.0
+FLT0589,IndiGo,Bangalore,Goa,10,65.0,Non-stop,6.6,11149.0
+FLT0590,IndiGo,Chennai,Mumbai,3,107.0,Non-stop,1.0,4095.0
+FLT0591,Akasa Air,Bangalore,Chennai,4,54.0,Non-stop,2.7,6123.0
+FLT0592,Air India,Bangalore,Hyderabad,8,28.0,1 Stop,6.7,9686.0
+FLT0593,Air India,Mumbai,Chennai,10,17.0,Non-stop,4.4,6986.0
+FLT0594,Vistara,Mumbai,Pune,3,40.0,Non-stop,9.3,17614.0
+FLT0595,IndiGo,Chennai,Pune,3,79.0,Non-stop,7.9,10745.0
+FLT0596,IndiGo,Kolkata,Hyderabad,11,57.0,Non-stop,5.0,7699.0
+FLT0597,SpiceJet,Mumbai,Bangalore,4,51.0,Non-stop,7.7,12994.0
+FLT0598,SpiceJet,Hyderabad,Bangalore,3,58.0,Non-stop,9.8,12516.0
+FLT0599,Akasa Air,Chennai,Hyderabad,9,117.0,Non-stop,5.1,7587.0
+FLT0600,Vistara,Mumbai,Hyderabad,2,120.0,1 Stop,6.8,12726.0
+FLT0601,Vistara,Bangalore,Pune,11,20.0,Non-stop,9.3,17808.0
+FLT0602,SpiceJet,Delhi,Hyderabad,11,14.0,Non-stop,3.2,6736.0
+FLT0603,Akasa Air,Delhi,Goa,11,30.0,1 Stop,9.0,12411.0
+FLT0604,SpiceJet,Bangalore,Goa,4,103.0,1 Stop,1.9,5344.0
+FLT0605,Akasa Air,Bangalore,Hyderabad,2,56.0,Non-stop,6.8,10594.0
+FLT0606,GoAir,Kolkata,Bangalore,6,104.0,1 Stop,8.0,9272.0
+FLT0607,GoAir,Delhi,Kolkata,5,78.0,2 Stops,6.5,7702.0
+FLT0608,IndiGo,Hyderabad,Chennai,12,67.0,1 Stop,5.5,6885.0
+FLT0609,SpiceJet,Mumbai,Hyderabad,8,34.0,2 Stops,6.6,7293.0
+FLT0610,Air India,Delhi,Pune,12,42.0,1 Stop,2.4,4978.0
+FLT0611,Vistara,Kolkata,Bangalore,10,18.0,Non-stop,2.9,8020.0
+FLT0612,SpiceJet,Kolkata,Pune,9,63.0,1 Stop,3.4,4814.0
+FLT0613,Akasa Air,Chennai,Delhi,2,34.0,1 Stop,6.4,6005.0
+FLT0614,Akasa Air,Delhi,Hyderabad,1,36.0,2 Stops,5.0,5849.0
+FLT0615,Air India,Delhi,Chennai,1,5.0,1 Stop,3.2,6047.0
+FLT0616,SpiceJet,Bangalore,Chennai,8,96.0,Non-stop,8.9,13066.0
+FLT0617,SpiceJet,Bangalore,Kolkata,3,113.0,1 Stop,4.4,6886.0
+FLT0618,Air India,Hyderabad,Mumbai,12,60.0,Non-stop,5.0,11246.0
+FLT0619,IndiGo,Mumbai,Kolkata,2,65.0,1 Stop,4.7,7737.0
+FLT0620,IndiGo,Mumbai,Hyderabad,12,112.0,1 Stop,2.6,6093.0
+FLT0621,GoAir,Hyderabad,,9,62.0,1 Stop,7.6,9327.0
+FLT0622,Vistara,Delhi,Mumbai,2,75.0,1 Stop,5.0,10917.0
+FLT0623,Akasa Air,Delhi,Chennai,1,52.0,1 Stop,1.1,2655.0
+FLT0624,Vistara,Bangalore,Mumbai,5,62.0,1 Stop,9.7,16439.0
+FLT0625,Akasa Air,Bangalore,Kolkata,5,63.0,1 Stop,8.3,10496.0
+FLT0626,Air India,Chennai,Hyderabad,4,86.0,1 Stop,7.5,10608.0
+FLT0627,GoAir,Hyderabad,Delhi,7,73.0,1 Stop,8.8,9266.0
+FLT0628,IndiGo,Hyderabad,Chennai,2,61.0,Non-stop,9.2,12703.0
+FLT0629,Vistara,Mumbai,Hyderabad,2,10.0,1 Stop,4.0,7708.0
+FLT0630,GoAir,Hyderabad,Goa,9,109.0,Non-stop,6.5,10732.0
+FLT0631,Akasa Air,Chennai,Hyderabad,12,107.0,1 Stop,6.5,7961.0
+FLT0632,GoAir,Delhi,Bangalore,4,23.0,1 Stop,3.4,5530.0
+FLT0633,IndiGo,Hyderabad,Kolkata,12,36.0,1 Stop,3.0,5320.0
+FLT0634,Air India,Delhi,Hyderabad,5,117.0,Non-stop,2.0,7611.0
+FLT0635,IndiGo,Chennai,Delhi,5,39.0,Non-stop,6.9,9802.0
+FLT0636,IndiGo,Kolkata,Goa,2,98.0,1 Stop,8.0,11218.0
+FLT0637,SpiceJet,Mumbai,Pune,6,95.0,Non-stop,7.8,11917.0
+FLT0638,SpiceJet,Mumbai,Chennai,6,104.0,Non-stop,3.8,8759.0
+FLT0639,GoAir,Bangalore,Goa,8,2.0,1 Stop,2.8,4923.0
+FLT0640,GoAir,Hyderabad,Mumbai,2,58.0,1 Stop,5.1,6401.0
+FLT0641,SpiceJet,Mumbai,Chennai,3,68.0,Non-stop,5.9,9874.0
+FLT0642,GoAir,Chennai,Bangalore,6,101.0,Non-stop,9.3,13560.0
+FLT0643,IndiGo,Bangalore,Mumbai,1,27.0,2 Stops,8.9,10741.0
+FLT0644,IndiGo,Delhi,Kolkata,2,37.0,1 Stop,9.2,11631.0
+FLT0645,Vistara,Kolkata,Mumbai,8,22.0,1 Stop,8.7,15218.0
+FLT0646,GoAir,Kolkata,Goa,12,92.0,Non-stop,9.7,15328.0
+FLT0647,IndiGo,Chennai,Hyderabad,7,120.0,Non-stop,5.2,9074.0
+FLT0648,Vistara,Mumbai,Pune,2,17.0,Non-stop,1.4,5047.0
+FLT0649,SpiceJet,Delhi,Mumbai,12,28.0,1 Stop,1.8,4260.0
+FLT0650,IndiGo,Bangalore,Hyderabad,7,37.0,Non-stop,4.5,8120.0
+FLT0651,Air India,Chennai,Pune,9,107.0,Non-stop,3.3,6953.0
+FLT0652,Akasa Air,Chennai,Mumbai,3,54.0,1 Stop,2.5,4897.0
+FLT0653,SpiceJet,Mumbai,Pune,7,34.0,2 Stops,9.6,8510.0
+FLT0654,IndiGo,Chennai,Bangalore,1,39.0,1 Stop,2.8,5935.0
+FLT0655,GoAir,Mumbai,Pune,8,72.0,1 Stop,9.6,9561.0
+FLT0656,Air India,Kolkata,Chennai,3,47.0,1 Stop,7.8,10292.0
+FLT0657,GoAir,Kolkata,Pune,11,17.0,1 Stop,6.8,7101.0
+FLT0658,Air India,Chennai,Mumbai,1,99.0,Non-stop,7.1,14737.0
+FLT0659,Vistara,Delhi,Chennai,8,51.0,1 Stop,4.0,7706.0
+FLT0660,Air India,Hyderabad,Bangalore,2,31.0,1 Stop,6.8,9379.0
+FLT0661,IndiGo,Delhi,Mumbai,9,88.0,1 Stop,2.7,5598.0
+FLT0662,GoAir,Hyderabad,Bangalore,6,90.0,2 Stops,9.4,10470.0
+FLT0663,IndiGo,Delhi,Chennai,12,19.0,2 Stops,3.7,3393.0
+FLT0664,IndiGo,Chennai,Mumbai,8,9.0,Non-stop,3.3,5729.0
+FLT0665,Air India,Delhi,Hyderabad,5,6.0,Non-stop,7.4,13856.0
+FLT0666,SpiceJet,Delhi,Kolkata,2,92.0,Non-stop,6.9,10852.0
+FLT0667,GoAir,Kolkata,Pune,8,76.0,Non-stop,5.1,6283.0
+FLT0668,Akasa Air,Kolkata,Hyderabad,6,96.0,Non-stop,6.7,9886.0
+FLT0669,Air India,Delhi,Mumbai,1,76.0,Non-stop,2.4,7316.0
+FLT0670,Air India,Hyderabad,Delhi,7,49.0,1 Stop,7.1,10589.0
+FLT0671,IndiGo,Mumbai,Chennai,3,71.0,1 Stop,3.4,7307.0
+FLT0672,Vistara,Mumbai,Chennai,3,87.0,2 Stops,3.5,7426.0
+FLT0673,Akasa Air,Mumbai,Chennai,1,48.0,Non-stop,2.5,5216.0
+FLT0674,SpiceJet,Bangalore,Pune,5,110.0,Non-stop,4.0,7922.0
+FLT0675,Vistara,Mumbai,Kolkata,3,108.0,Non-stop,4.0,10465.0
+FLT0676,Air India,Bangalore,Hyderabad,1,97.0,Non-stop,5.1,9522.0
+FLT0677,Akasa Air,Mumbai,Delhi,6,120.0,Non-stop,2.7,6269.0
+FLT0678,Vistara,Delhi,Pune,3,47.0,2 Stops,2.7,4193.0
+FLT0679,IndiGo,Bangalore,Mumbai,2,14.0,Non-stop,5.9,9975.0
+FLT0680,Air India,Kolkata,Chennai,6,59.0,Non-stop,2.2,5323.0
+FLT0681,IndiGo,Kolkata,Chennai,1,90.0,1 Stop,7.2,9465.0
+FLT0682,IndiGo,Bangalore,Pune,12,94.0,1 Stop,9.5,11095.0
+FLT0683,IndiGo,Mumbai,Bangalore,6,47.0,1 Stop,4.8,6347.0
+FLT0684,Air India,Kolkata,Mumbai,12,36.0,Non-stop,9.1,15384.0
+FLT0685,SpiceJet,Kolkata,Bangalore,11,54.0,1 Stop,1.9,4036.0
+FLT0686,Air India,Kolkata,Bangalore,12,97.0,Non-stop,1.4,5720.0
+FLT0687,Air India,Hyderabad,Mumbai,7,8.0,1 Stop,7.5,11518.0
+FLT0688,Akasa Air,Kolkata,Mumbai,6,40.0,1 Stop,7.8,9894.0
+FLT0689,SpiceJet,Hyderabad,Mumbai,9,28.0,1 Stop,8.6,10400.0
+FLT0690,Vistara,Bangalore,Chennai,1,97.0,Non-stop,1.5,6539.0
+FLT0691,Air India,Bangalore,Hyderabad,11,57.0,1 Stop,8.0,11685.0
+FLT0692,Akasa Air,Mumbai,Chennai,4,11.0,Non-stop,4.4,6803.0
+FLT0693,IndiGo,Mumbai,Hyderabad,1,32.0,Non-stop,3.7,6871.0
+FLT0694,Air India,Kolkata,Mumbai,3,6.0,Non-stop,2.6,5789.0
+FLT0695,Akasa Air,Kolkata,Goa,3,58.0,1 Stop,10.0,12689.0
+FLT0696,Vistara,Kolkata,Pune,1,120.0,Non-stop,1.6,5961.0
+FLT0697,SpiceJet,Mumbai,Chennai,9,69.0,1 Stop,8.4,9701.0
+FLT0698,Vistara,Bangalore,Mumbai,2,105.0,Non-stop,6.8,17162.0
+FLT0699,SpiceJet,Mumbai,Goa,11,90.0,1 Stop,7.6,11737.0
+FLT0700,Air India,Hyderabad,Bangalore,6,106.0,1 Stop,7.4,11274.0
+FLT0701,IndiGo,Mumbai,Bangalore,9,38.0,Non-stop,8.7,14684.0
+FLT0702,Air India,Delhi,Mumbai,5,115.0,Non-stop,2.7,8616.0
+FLT0703,IndiGo,Chennai,Delhi,2,29.0,Non-stop,1.0,3092.0
+FLT0704,GoAir,Hyderabad,Chennai,3,53.0,1 Stop,6.4,6893.0
+FLT0705,Air India,Hyderabad,Delhi,8,82.0,Non-stop,4.2,8202.0
+FLT0706,Vistara,Delhi,Bangalore,9,35.0,1 Stop,2.1,5352.0
+FLT0707,GoAir,Mumbai,Pune,4,32.0,1 Stop,2.7,3089.0
+FLT0708,GoAir,Delhi,Bangalore,5,16.0,1 Stop,4.0,5778.0
+FLT0709,Air India,Mumbai,Goa,12,1.0,1 Stop,1.6,5348.0
+FLT0710,Vistara,Chennai,Mumbai,11,61.0,1 Stop,1.5,5142.0
+FLT0711,Akasa Air,Mumbai,Kolkata,5,119.0,2 Stops,9.2,12573.0
+FLT0712,SpiceJet,Delhi,Pune,3,27.0,Non-stop,3.8,6504.0
+FLT0713,GoAir,Chennai,Delhi,4,53.0,1 Stop,9.8,11340.0
+FLT0714,Akasa Air,Delhi,Goa,7,113.0,Non-stop,9.7,16379.0
+FLT0715,GoAir,Mumbai,Bangalore,7,93.0,1 Stop,2.3,6245.0
+FLT0716,IndiGo,Delhi,Chennai,3,1.0,1 Stop,7.4,8584.0
+FLT0717,Vistara,Delhi,Hyderabad,1,61.0,1 Stop,6.4,9098.0
+FLT0718,IndiGo,Bangalore,Hyderabad,6,18.0,1 Stop,7.2,9028.0
+FLT0719,SpiceJet,Hyderabad,Delhi,10,30.0,Non-stop,1.9,4559.0
+FLT0720,Akasa Air,Kolkata,Pune,2,30.0,Non-stop,2.7,4879.0
+FLT0721,Vistara,Delhi,Kolkata,5,74.0,Non-stop,1.7,7095.0
+FLT0722,Air India,Delhi,Goa,2,24.0,1 Stop,6.4,11522.0
+FLT0723,IndiGo,Bangalore,Chennai,3,31.0,1 Stop,9.9,12403.0
+FLT0724,Akasa Air,Chennai,Kolkata,8,28.0,Non-stop,7.0,10079.0
+FLT0725,IndiGo,Kolkata,Chennai,4,43.0,Non-stop,7.4,10048.0
+FLT0726,IndiGo,Kolkata,Goa,4,79.0,Non-stop,9.9,15036.0
+FLT0727,IndiGo,Bangalore,Pune,12,48.0,Non-stop,7.1,11903.0
+FLT0728,IndiGo,Mumbai,Goa,3,40.0,Non-stop,1.4,5139.0
+FLT0729,Air India,Delhi,Kolkata,3,63.0,1 Stop,8.8,12210.0
+FLT0730,Vistara,Delhi,Pune,12,74.0,1 Stop,4.3,8042.0
+FLT0731,Air India,Delhi,Bangalore,7,2.0,Non-stop,1.0,3726.0
+FLT0732,IndiGo,Hyderabad,Chennai,1,107.0,1 Stop,5.6,7064.0
+FLT0733,IndiGo,Mumbai,Pune,6,110.0,1 Stop,9.4,11310.0
+FLT0734,Air India,Kolkata,Delhi,7,73.0,Non-stop,3.3,6785.0
+FLT0735,IndiGo,Chennai,Hyderabad,4,69.0,Non-stop,5.4,8169.0
+FLT0736,SpiceJet,Chennai,Delhi,7,84.0,Non-stop,2.6,5229.0
+FLT0737,IndiGo,Bangalore,Kolkata,8,53.0,Non-stop,1.5,5437.0
+FLT0738,Air India,Kolkata,Chennai,4,44.0,1 Stop,1.7,4373.0
+FLT0739,Air India,Delhi,Chennai,10,43.0,2 Stops,7.5,9617.0
+FLT0740,Air India,Delhi,Chennai,6,20.0,Non-stop,8.8,13959.0
+FLT0741,IndiGo,Bangalore,Chennai,12,101.0,1 Stop,2.3,5397.0
+FLT0742,IndiGo,Bangalore,Chennai,2,39.0,Non-stop,3.6,7192.0
+FLT0743,GoAir,Chennai,Mumbai,4,35.0,1 Stop,2.8,4995.0
+FLT0744,IndiGo,Kolkata,Goa,9,116.0,1 Stop,1.2,4401.0
+FLT0745,Vistara,Chennai,Pune,11,61.0,Non-stop,6.0,12044.0
+FLT0746,Vistara,Mumbai,Kolkata,3,75.0,Non-stop,7.3,15639.0
+FLT0747,Air India,Mumbai,Hyderabad,12,30.0,1 Stop,6.8,10827.0
+FLT0748,Air India,Kolkata,Pune,3,34.0,2 Stops,4.5,5468.0
+FLT0749,GoAir,Mumbai,Goa,5,88.0,Non-stop,6.0,9788.0
+FLT0750,GoAir,Chennai,Delhi,4,55.0,Non-stop,1.8,4454.0
+FLT0751,IndiGo,Chennai,Hyderabad,6,18.0,Non-stop,2.4,5439.0
+FLT0752,Air India,Kolkata,Mumbai,11,101.0,1 Stop,9.4,15058.0
+FLT0753,IndiGo,Kolkata,Mumbai,9,49.0,1 Stop,7.9,10995.0
+FLT0754,Vistara,Bangalore,Pune,10,81.0,1 Stop,9.3,14226.0
+FLT0755,SpiceJet,Mumbai,Delhi,4,41.0,1 Stop,9.3,11168.0
+FLT0756,IndiGo,Bangalore,Pune,12,68.0,2 Stops,6.8,8361.0
+FLT0757,Air India,Bangalore,Pune,6,94.0,1 Stop,9.4,13471.0
+FLT0758,Akasa Air,Mumbai,Goa,8,107.0,Non-stop,4.8,9749.0
+FLT0759,IndiGo,Chennai,Hyderabad,9,25.0,1 Stop,1.0,3491.0
+FLT0760,Vistara,Mumbai,Pune,8,81.0,Non-stop,1.6,5615.0
+FLT0761,SpiceJet,Chennai,Delhi,8,110.0,Non-stop,2.0,4860.0
+FLT0762,IndiGo,Kolkata,Goa,6,78.0,2 Stops,1.9,5585.0
+FLT0763,IndiGo,Hyderabad,Mumbai,8,18.0,1 Stop,4.2,6784.0
+FLT0764,IndiGo,Delhi,Bangalore,11,23.0,2 Stops,7.3,8970.0
+FLT0765,Akasa Air,Kolkata,Mumbai,5,25.0,Non-stop,8.1,12518.0
+FLT0766,IndiGo,Delhi,Chennai,7,13.0,1 Stop,6.3,8232.0
+FLT0767,IndiGo,Bangalore,Hyderabad,3,91.0,1 Stop,2.3,3144.0
+FLT0768,IndiGo,Mumbai,Bangalore,5,116.0,Non-stop,7.7,14045.0
+FLT0769,IndiGo,Delhi,Pune,10,63.0,Non-stop,4.2,7213.0
+FLT0770,Vistara,Mumbai,Kolkata,8,72.0,1 Stop,1.1,4686.0
+FLT0771,IndiGo,Delhi,Hyderabad,3,93.0,Non-stop,3.5,7178.0
+FLT0772,Vistara,Kolkata,Goa,7,50.0,2 Stops,4.0,8367.0
+FLT0773,Vistara,Delhi,Chennai,10,57.0,Non-stop,3.5,8554.0
+FLT0774,GoAir,Bangalore,Hyderabad,2,71.0,Non-stop,8.3,10312.0
+FLT0775,IndiGo,Kolkata,Goa,1,37.0,1 Stop,7.8,10899.0
+FLT0776,GoAir,Hyderabad,Kolkata,5,8.0,Non-stop,7.3,8752.0
+FLT0777,Vistara,Hyderabad,Kolkata,8,69.0,2 Stops,2.3,4827.0
+FLT0778,IndiGo,Delhi,Bangalore,4,99.0,1 Stop,8.3,11804.0
+FLT0779,GoAir,Hyderabad,Mumbai,10,9.0,Non-stop,7.1,10818.0
+FLT0780,GoAir,Chennai,Mumbai,11,26.0,1 Stop,2.8,3262.0
+FLT0781,IndiGo,Mumbai,Delhi,7,32.0,1 Stop,6.8,9621.0
+FLT0782,Akasa Air,Bangalore,Mumbai,5,97.0,1 Stop,5.4,9120.0
+FLT0783,Air India,Hyderabad,Pune,1,61.0,1 Stop,5.0,6441.0
+FLT0784,Vistara,Bangalore,Delhi,10,65.0,1 Stop,2.0,6805.0
+FLT0785,Akasa Air,Mumbai,Hyderabad,11,78.0,1 Stop,5.7,8666.0
+FLT0786,Air India,Hyderabad,Goa,6,34.0,Non-stop,1.9,5862.0
+FLT0787,GoAir,Hyderabad,Pune,7,86.0,1 Stop,2.5,3630.0
+FLT0788,Air India,Hyderabad,Chennai,10,4.0,2 Stops,2.2,3530.0
+FLT0789,GoAir,Hyderabad,Delhi,9,14.0,1 Stop,9.6,9628.0
+FLT0790,Vistara,Hyderabad,Pune,2,98.0,1 Stop,3.6,6775.0
+FLT0791,IndiGo,Bangalore,Delhi,9,79.0,1 Stop,4.2,7250.0
+FLT0792,Air India,Mumbai,Hyderabad,12,22.0,1 Stop,3.9,7167.0
+FLT0793,Air India,Chennai,Hyderabad,10,53.0,2 Stops,9.1,10512.0
+FLT0794,IndiGo,Mumbai,Goa,6,7.0,Non-stop,6.1,10740.0
+FLT0795,IndiGo,Bangalore,Hyderabad,7,81.0,Non-stop,9.3,13075.0
+FLT0796,Air India,Chennai,Mumbai,4,91.0,1 Stop,3.7,6269.0
+FLT0797,IndiGo,Hyderabad,Mumbai,8,34.0,1 Stop,2.0,4749.0
+FLT0798,IndiGo,Mumbai,Pune,3,43.0,1 Stop,6.0,8144.0
+FLT0799,SpiceJet,Mumbai,Goa,5,29.0,Non-stop,4.1,8669.0
+FLT0800,SpiceJet,Kolkata,Bangalore,4,47.0,Non-stop,8.2,10811.0
